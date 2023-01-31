@@ -1,2 +1,2 @@
 # CourseRank
-Course ranking algorithm that implements BM25 scoring function
+Course ranking algorithm which implements BM25 scoring function
